@@ -11,7 +11,7 @@ namespace SocketTcpServer
         //Деньги Игроков, Данные для соединения сервера и Игроков хранятся в библиотеке классов "Class_Library_connect"
 
         static int i=0;//счётчик
-
+        
         static void Main(string[] args)
         {
             // Получаем адреса для запуска сокета из библиотеки классов, 
